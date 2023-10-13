@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "dev" : "nodemon index.js"
+  },
+  "dependencies": {
+    "@wppconnect-team/wppconnect": "^1.28.0",
+    "nodemon": "^3.0.1"
+  }
+}
